@@ -1,0 +1,4 @@
+[submodule "RLJO/odoo14"]
+	path = RLJO/odoo14
+	url = git@github.com:RLJO/odoo14.git
+	branch = master
